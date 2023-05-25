@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LogInAndRegistration</string>
+    <string name="username">Username</string>
+    <string name="signup">signup</string>
+    <string name="password">password</string>
+    <string name="password1">Password</string>
+    <string name="login">login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="password_registration">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="username_register">Username</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="password_login">Password</string>
+    <string name="username_login">Username</string>
+    <string name="amount_repaid">Amount Repaid</string>
+    <string name="initial_loan">Initial Loan</string>
+    <string name="nameoflendee">Name</string>
+</resources>

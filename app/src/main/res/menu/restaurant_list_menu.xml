@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_restaurantListMenu_sortByHigh"
+        android:title="@string/rating_high_to_low" />
+
+    <item android:id="@+id/item_restaurantListMenu_sortByLow"
+        android:title="@string/rating_low_to_high" />
+
+    <item android:id="@+id/item_restaurantListMenu_sortByAlpha"
+        android:title="@string/a_z" />
+</menu>
